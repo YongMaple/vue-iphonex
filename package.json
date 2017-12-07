@@ -1,0 +1,36 @@
+{
+    "name": "vue-iphonex",
+    "version": "0.1.0",
+    "description": "A Vue directive to determine if it is an iPhoneX",
+    "main": "vue-iphonex.es5.js",
+    "scripts": {
+        "start": "node build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YongMaple/vue-iphonex.git"
+    },
+    "keywords": [
+        "vue-iphonex",
+        "iPhoneX",
+        "iPhone10",
+        "vue",
+        "YongMaple"
+    ],
+    "author": "YongMaple <jyfmaple@gmail.com>",
+    "bugs": {
+        "url": "https://github.com/YongMaple/vue-iphonex/issues"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "babel-cli": "^6.24.1",
+        "babel-polyfill": "^6.23.0",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-es2015-rollup": "^3.0.0",
+        "rollup": "^0.41.6",
+        "rollup-plugin-babel": "^2.7.1",
+        "rollup-plugin-replace": "^1.1.1",
+        "rollup-watch": "^3.2.2",
+        "vue": "^2.2.6"
+    }
+}
