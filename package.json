@@ -1,6 +1,6 @@
 {
     "name": "vue-iphonex",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "A Vue directive to determine if it is an iPhoneX",
     "main": "vue-iphonex.es5.js",
     "scripts": {
