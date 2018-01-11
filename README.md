@@ -50,18 +50,19 @@ Vue.use(VueIphonex)
 ```
 > 注意加上`v-iphonex`指令
 > 使用`this.$iphonex.$on`监听`init`和`rotate`事件
-> `init`事件会返回`Boolean`类型，`true`表示是iPhoneX
-> `rotate`事件会返回`String`类型，分别为`left`：刘海在左，`right`：刘海在右，``空字符串为垂直方向
+> `init`事件会返回`Boolean`类型，`true`表示是iPhoneX
+> `rotate`事件会返回`String`类型，分别为`left`：刘海在左，`right`：刘海在右，`''`空字符串为垂直方向
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
 
-##效果图
+## 效果图
 ### 是iPhoneX时，为底部添加34px
-![](http://okmneu7zl.bkt.clouddn.com/WechatIMG8.png)
-### 是iPhoneX且刘海在左时，为左边添加44px
-![](http://okmneu7zl.bkt.clouddn.com/WechatIMG6.png)
-### 是iPhoneX且刘海在右时，为右边添加44px
-![](http://okmneu7zl.bkt.clouddn.com/WechatIMG7.png)
+
+![](http://okmneu7zl.bkt.clouddn.com/iVBORw0KGgoAAAANSUhEUgAABX0AAArsCAYAAACMnVrPAAAABGdBTUEAALGPC:xhBQAAQABJREFUeAHsvQe8bUd937uMaUIVdQmV-2.png)
+### 是iPhoneX且刘海在左时，为左边添加44px
+![](http://okmneu7zl.bkt.clouddn.com/iVBORw0KGgoAAAANSUhEUgAABX0AAArsCAYAAACMnVrPAAAABGdBTUEAALGPC:xhBQAAQABJREFUeAHsvQe8bUd937uMaUIVdQmV-3.png)
+### 是iPhoneX且刘海在右时，为右边添加44px
+![](http://okmneu7zl.bkt.clouddn.com/iVBORw0KGgoAAAANSUhEUgAABX0AAArsCAYAAACMnVrPAAAABGdBTUEAALGPC:xhBQAAQABJREFUeAHsvQe8bUd937uMaUIVdQmV-5.png)
