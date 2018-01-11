@@ -59,7 +59,7 @@ Vue.use(VueIphonex)
 
 
 ## 效果图
-### 是iPhoneX时，为底部添加34px
+### 是iPhoneX时，为底部添加34px
 
 ![](http://okmneu7zl.bkt.clouddn.com/iVBORw0KGgoAAAANSUhEUgAABX0AAArsCAYAAACMnVrPAAAABGdBTUEAALGPC:xhBQAAQABJREFUeAHsvQe8bUd937uMaUIVdQmV-2.png)
 ### 是iPhoneX且刘海在左时，为左边添加44px
